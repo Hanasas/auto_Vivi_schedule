@@ -37,3 +37,5 @@ and find the `output.png` in project root directory
 double streams in one day
 
 words to long to mask
+
+add comments so that one can use this to work with other livers' schedule
