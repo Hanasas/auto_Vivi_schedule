@@ -13,6 +13,7 @@ pip install Pillow
 ```
 
 # examples
+
 cmd input
 
 ```
@@ -30,3 +31,9 @@ feedin the blanks
 and find the `output.png` in project root directory
 
 <img src="examples/output.png">
+
+# TODO
+
+double streams in one day
+
+words to long to mask
