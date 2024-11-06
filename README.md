@@ -1,3 +1,5 @@
+**Wish you a better future, Victoria.**
+
 # README
 
 This project is to help translating schedule of Victoria Brightshield(nijisanji) into Chinese(or any other language,whatever)
